@@ -3,7 +3,8 @@ Anshul Singh
 Zane Calini
 
 # Grader Credentials for Server Login:
-ssh: `grader@zaneanshul.tech`\n
+ssh: `grader@zaneanshul.tech`
+
 pass: `Man#2008`
 
 # Website URL:
