@@ -1,6 +1,6 @@
 # Team Members:
-Anshul Singh
-Zane Calini
+- Anshul Singh
+- Zane Calini
 
 # Grader Credentials for Server Login:
 ssh: `grader@zaneanshul.tech`
